@@ -1,6 +1,6 @@
 # CS-305
-Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
-  Artemis Financial is a financial company that helps clients with their insurance, savings, investments and retirement. Artemis wanted to update their software to the latest security measures; thus, Artemis will be able to keep their client's information safe.
+Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?  
+  Artemis Financial is a financial company that helps clients with their insurance, savings, investments and retirement. Artemis wanted to update their software to the latest security measures; thus, Artemis will be able to keep their client's information safe.  
   
 What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
   One thing I thought I did well on was introducing an algorithm cipher to prevent data being stolen. It is important to code securely because it keeps our system safe and prevent leaks/attacks on our system. Knowing that our software is secure gives the company and their clients peace at mind knowing their data will not be breeched. This will keep customers trust in Artemis. 
